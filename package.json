@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "cordova-common": "2.0.0",
-    "cordova-lib": "https://github.com/ogoguel/cordova-lib.git",
+    "cordova-lib": "https://github.com/mattoakesnet/cordova-lib-watchos.git",
     "insight": "~0.8.2",
     "nopt": "3.0.1",
     "q": "1.0.1",
